@@ -1,6 +1,6 @@
 # PRIMAROCROW
 
-Desarrolladores: cristian Eduardo Prieto Triana y Diana Carolina Chacón López
+Desarrolladores: Cristian Eduardo Prieto Triana y Diana Carolina Chacón López
 
 Fecha: Nov - 2018
 
